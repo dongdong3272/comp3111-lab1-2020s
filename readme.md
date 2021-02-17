@@ -2,4 +2,4 @@ Louis L
 12345678
 
 
-![my screenshot](Lab1/Screenshot1.png)
+![my screenshot](https://github.com/dongdong3272/comp3111-lab1-2020s/blob/master/Screenshot1.png)
